@@ -254,6 +254,13 @@ a:hover {
 	float: left;
 	margin-left: 20px;
 }
+.block-3 .extra_wrapper {
+	overflow:hidden;
+	width: 1000px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 50px;
+}
 .clear {
 	float:none!important;
 	clear:both
@@ -366,10 +373,25 @@ h1 span {
 	float: left;
 	width: 700px;
 }
-}
+
 .block-2 .img_b img {
 	margin: auto;
 	width: 300px;
+}
+.block-3 {
+	overflow:hidden;
+	margin-bottom:36px;
+	float: left;
+}
+.block-3 .img_b {
+	margin-left: 90px;
+	float: left;
+	width: 1000px;
+}
+.block-3 .img_b img {
+	margin: auto;
+	width: 490px;
+	float: left;
 }
 .block-2 h4 {
 	margin-bottom:16px
